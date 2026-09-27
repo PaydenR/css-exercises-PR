@@ -9,7 +9,8 @@
     background-color: yellow;
 }
 
-button {
+.one,
+.two {
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
 }
